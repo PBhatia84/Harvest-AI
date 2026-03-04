@@ -1,0 +1,22 @@
+{
+  "name": "Harvest AI",
+  "short_name": "Harvest",
+  "description": "AI-powered grocery assistant",
+  "start_url": "/harvest-ai/",
+  "display": "standalone",
+  "background_color": "#f7f2e8",
+  "theme_color": "#f7f2e8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/harvest-ai/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/harvest-ai/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
